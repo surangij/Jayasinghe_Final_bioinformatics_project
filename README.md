@@ -8,3 +8,5 @@ from Bio import SeqIO
 from Bio.SeqRecord import SeqRecord
 import csv
 import pandas as pd 
+python version:
+3.11.5 (main, Sep 11 2023, 08:19:27) [Clang 14.0.6 ]
